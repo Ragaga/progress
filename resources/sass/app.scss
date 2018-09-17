@@ -1,0 +1,9 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import "~vue-flash-message/dist/vue-flash-message.min.css";
+.router-link-active {
+  color: rgba(0, 0, 0, 0.9) !important;
+}
